@@ -61,7 +61,8 @@ const SingleCocktail = () => {
   if (!cocktail) {
     return <h2 className="section-title">no cocktail to display</h2>;
   }
-  const { name, image, info, glass, category, ingredients,instructions } = cocktail;
+  const { name, image, info, glass, category, ingredients, instructions } =
+    cocktail;
   return (
     <section className="section cocktail-section">
       <Link to={"/"} className="btn btn-primary">
