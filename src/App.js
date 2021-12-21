@@ -25,7 +25,6 @@ function App() {
           <Error />
         </Route>
       </Switch>
-      <h2>app component</h2>
     </Router>
   );
 }
