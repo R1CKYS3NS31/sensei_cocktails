@@ -80,3 +80,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "build": "CI= react-scripts build",
 
 ```
+
+#### Hosted at 
+https://sensei-cocktails.netlify.app/
